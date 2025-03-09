@@ -1,0 +1,9 @@
+PyMuPDF
+pytesseract 
+opencv-python 
+numpy 
+faiss-cpu 
+sentence-transformers 
+tqdm 
+requests
+ollama
