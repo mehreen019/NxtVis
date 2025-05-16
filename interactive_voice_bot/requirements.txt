@@ -1,0 +1,11 @@
+gtts
+pygame
+pyaudio
+qdrant_client
+unstructured
+faster-whisper
+sentence-transformers
+llama-index-vector-stores-qdrant
+llama-index-embeddings-huggingface
+llama-index-llms-openai
+llama-index-core

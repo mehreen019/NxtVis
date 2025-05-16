@@ -1,0 +1,38 @@
+# GlobalHub International Airport Layout
+
+## Terminals
+- Terminal 1 (International):
+  - Gates A1-A20: Star Alliance flights
+  - Level 2: Immigration counters 1-15
+  - Level 1: Baggage claim belts 1-4
+
+- Terminal 2 (Domestic):
+  - Gates B1-B30: SkyTeam flights
+  - Central security checkpoint open 24/7
+
+## Services
+- Lounges:
+  - Premium Plaza (T1, Airside, Level 3): Priority Pass accepted
+  - SkyClub (T2, Gate B12): Business class access only
+
+- Transportation:
+  - Taxi stand: Outside Arrivals Level
+  - Train Station: Basement Level T1/T2
+
+## Security Rules
+1. Prohibited items:
+   - Liquids >100ml
+   - Power banks >20,000mAh
+2. FastTrack available for:
+   - Business class passengers
+   - Premium credit card holders
+
+## Emergency Info
+- Medical Center: T1 Level 2, T2 Level 1
+- Lost & Found: (+1) 555-AIRPORT
+- Special Assistance: Call green phones near info desks
+
+## Operational Hours
+- Check-in counters open 3hrs before flight
+- Duty Free shops: 5AM-11PM daily
+- Currency Exchange: 24/7 in T1 Arrivals
