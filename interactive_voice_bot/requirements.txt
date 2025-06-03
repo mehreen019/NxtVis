@@ -9,3 +9,7 @@ llama-index-vector-stores-qdrant
 llama-index-embeddings-huggingface
 llama-index-llms-openai
 llama-index-core
+mistralai
+streamlit
+numpy
+scipy
