@@ -1,0 +1,547 @@
+# GlobalHub International Airport (GHIA) - Complete Guide
+
+## Airport Overview
+- Location: 123 Aviation Way, Global City
+- IATA Code: GHB
+- Operating Hours: 24/7
+- Annual Passengers: 45 million
+- Total Area: 2.5 million square meters
+
+## Flight Information
+
+### Terminal 1 (International) Flight Routes
+#### Star Alliance (Gates A1-A10)
+- UA123/124: New York (JFK) - Daily, 10:00/22:00
+- LH456/457: Frankfurt - Daily, 08:30/20:30
+- SQ789/790: Singapore - Daily, 14:00/02:00
+- AC234/235: Toronto - Daily, 11:30/23:30
+- TK567/568: Istanbul - Daily, 09:00/21:00
+
+#### OneWorld (Gates A11-A20)
+- BA345/346: London Heathrow - Daily, 07:00/19:00
+- QR678/679: Doha - Daily, 13:30/01:30
+- CX890/891: Hong Kong - Daily, 15:00/03:00
+- AY123/124: Helsinki - Daily, 10:30/22:30
+- IB456/457: Madrid - Daily, 12:00/00:00
+
+#### Other International Airlines (Gates A21-A25)
+- EK789/790: Dubai - Daily, 16:30/04:30
+- ET234/235: Addis Ababa - Daily, 08:00/20:00
+- KE567/568: Seoul - Daily, 14:30/02:30
+- NH890/891: Tokyo - Daily, 11:00/23:00
+- TG123/124: Bangkok - Daily, 13:00/01:00
+
+### Terminal 2 (Domestic) Flight Routes
+#### SkyTeam (Gates B1-B15)
+- DL345/346: Atlanta - Daily, 06:00/18:00
+- AF567/568: Paris - Daily, 09:30/21:30
+- KL789/790: Amsterdam - Daily, 12:00/00:00
+- AZ234/235: Rome - Daily, 10:00/22:00
+- SU456/457: Moscow - Daily, 14:00/02:00
+
+#### Other Domestic Airlines (Gates B16-B30)
+- AA678/679: Chicago - Daily, 07:30/19:30
+- WN890/891: Dallas - Daily, 11:30/23:30
+- B6123/124: Boston - Daily, 08:00/20:00
+- AS345/346: Seattle - Daily, 13:30/01:30
+- F9234/235: Miami - Daily, 15:00/03:00
+
+## Terminal Layouts and Directions
+
+### Terminal 1 (International)
+#### Gates and Airlines
+- Gates A1-A10: Star Alliance
+  - Walking time from security: 5-7 minutes
+  - Moving walkways available
+  - Restrooms every 200 meters
+  - Charging stations at each gate
+  - Water fountains at gates A3, A6, A9
+
+- Gates A11-A20: OneWorld
+  - Walking time from security: 7-9 minutes
+  - Moving walkways available
+  - Restrooms every 200 meters
+  - Charging stations at each gate
+  - Water fountains at gates A13, A16, A19
+
+- Gates A21-A25: Other International
+  - Walking time from security: 9-11 minutes
+  - Moving walkways available
+  - Restrooms every 200 meters
+  - Charging stations at each gate
+  - Water fountains at gates A22, A24
+
+#### Levels
+- Level 4: Departures Hall
+  - Check-in counters 1-50
+    - Counters 1-10: Star Alliance
+    - Counters 11-30: OneWorld
+    - Counters 31-50: Other International
+  - Self-service kiosks (20 units)
+    - Locations: Near entrances 1, 2, and 3
+  - Baggage drop-off points
+    - Star Alliance: Counters 1-10
+    - OneWorld: Counters 11-30
+    - Other International: Counters 31-50
+  - Information desks (3 locations)
+    - Desk 1: Near Entrance 1
+    - Desk 2: Center of hall
+    - Desk 3: Near Entrance 3
+  - Currency exchange (2 locations)
+    - Location 1: Near Desk 1
+    - Location 2: Near Desk 3
+
+- Level 3: Security and Immigration
+  - Security checkpoints (4 locations)
+    - Checkpoint 1: For Gates A1-A10
+    - Checkpoint 2: For Gates A11-A20
+    - Checkpoint 3: For Gates A21-A25
+    - Checkpoint 4: FastTrack (24/7)
+  - Immigration counters 1-15
+    - Counters 1-5: EU/EEA passports
+    - Counters 6-10: All passports
+    - Counters 11-15: FastTrack
+  - FastTrack lanes (2 dedicated lanes)
+    - Business class passengers
+    - Premium credit card holders
+  - Duty-free shopping area
+    - Opening hours: 5:00 AM - 11:00 PM
+    - Location: Center of level
+  - Premium lounges
+    - See detailed lounge information below
+
+- Level 2: Arrivals Hall
+  - Immigration counters 1-15
+    - Counters 1-5: EU/EEA passports
+    - Counters 6-10: All passports
+    - Counters 11-15: FastTrack
+  - Customs clearance
+    - Green channel: Nothing to declare
+    - Red channel: Goods to declare
+  - Information desks
+    - Desk 1: Near Immigration
+    - Desk 2: Near Customs
+  - Transportation services
+    - Taxi stand: Exit 1
+    - Bus stop: Exit 2
+    - Train station: Exit 3
+  - Hotel booking counters
+    - Counter 1: Major chains
+    - Counter 2: Budget options
+
+- Level 1: Baggage Claim
+  - Belts 1-4 (with digital displays)
+    - Belt 1: Star Alliance flights
+    - Belt 2: OneWorld flights
+    - Belt 3: Other International flights
+    - Belt 4: Oversized baggage
+  - Lost baggage counter
+    - Location: Between belts 2 and 3
+    - Hours: 24/7
+  - Porter services
+    - Location: Near each belt
+    - Hours: 6:00 AM - 10:00 PM
+  - Baggage wrapping service
+    - Location: Near belt 1
+    - Hours: 24/7
+  - Oversized baggage claim area
+    - Location: Near belt 4
+    - Hours: 24/7
+
+### Terminal 2 (Domestic)
+#### Gates and Airlines
+- Gates B1-B15: SkyTeam
+  - Walking time from security: 4-6 minutes
+  - Moving walkways available
+  - Restrooms every 150 meters
+  - Charging stations at each gate
+  - Water fountains at gates B3, B6, B9, B12
+
+- Gates B16-B30: Other Domestic
+  - Walking time from security: 6-8 minutes
+  - Moving walkways available
+  - Restrooms every 150 meters
+  - Charging stations at each gate
+  - Water fountains at gates B18, B21, B24, B27
+
+#### Levels
+- Level 3: Departures
+  - Check-in counters 51-80
+    - Counters 51-65: SkyTeam
+    - Counters 66-80: Other Domestic
+  - Self-service kiosks (15 units)
+    - Locations: Near entrances 1 and 2
+  - Baggage drop-off
+    - SkyTeam: Counters 51-65
+    - Other Domestic: Counters 66-80
+  - Information desk
+    - Location: Center of hall
+    - Hours: 24/7
+
+- Level 2: Security
+  - Central security checkpoint (24/7)
+    - Lanes 1-3: General
+    - Lane 4: FastTrack
+    - Lane 5: Special assistance
+  - FastTrack lanes
+    - Business class passengers
+    - Premium credit card holders
+  - Pre-security shopping
+    - Opening hours: 5:00 AM - 11:00 PM
+
+- Level 1: Arrivals
+  - Baggage claim belts 5-8
+    - Belt 5: SkyTeam flights
+    - Belt 6: Other Domestic flights
+    - Belt 7: Oversized baggage
+    - Belt 8: Special handling
+  - Ground transportation
+    - Taxi stand: Exit 1
+    - Bus stop: Exit 2
+    - Train station: Exit 3
+  - Car rental desks
+    - Counter 1: Major companies
+    - Counter 2: Budget options
+
+## Services and Amenities
+
+### Lounges
+1. Premium Plaza (T1, Airside, Level 3)
+   - Priority Pass, DragonPass, and LoungeKey accepted
+   - Operating hours: 5:00 AM - 11:00 PM
+   - Location: Near Gate A10
+   - Features:
+     - Full-service bar
+     - Hot and cold buffet
+     - Shower facilities
+     - Business center
+     - Quiet rooms
+     - Children's play area
+
+2. SkyClub (T2, Gate B12)
+   - Business class access
+   - Operating hours: 4:30 AM - 10:30 PM
+   - Location: Between Gates B11 and B13
+   - Features:
+     - Premium dining
+     - Spa services
+     - Meeting rooms
+     - Workstations
+
+3. Regional Lounge (T1, Gate A5)
+   - First class passengers only
+   - 24/7 operation
+   - Location: Near Gate A5
+   - Features:
+     - À la carte dining
+     - Private suites
+     - Concierge service
+
+### Dining Options
+1. Airside Restaurants
+   - Global Cuisine (T1, Level 3)
+     - Location: Near Gate A15
+     - Hours: 6:00 AM - 10:00 PM
+     - Cuisine: International
+   
+   - Sky Bistro (T2, Level 2)
+     - Location: Near Gate B20
+     - Hours: 5:30 AM - 9:30 PM
+     - Cuisine: Modern American
+   
+   - Quick Bites (Both terminals)
+     - T1 Location: Near Gate A8
+     - T2 Location: Near Gate B15
+     - Hours: 24/7
+   
+   - Coffee Shops (Multiple locations)
+     - T1: Near Gates A5, A12, A18
+     - T2: Near Gates B8, B16, B24
+     - Hours: 5:00 AM - 11:00 PM
+
+2. Landside Restaurants
+   - Airport Café (T1, Level 4)
+     - Location: Near Entrance 2
+     - Hours: 24/7
+     - Cuisine: Casual dining
+   
+   - Food Court (T2, Level 3)
+     - Location: Center of level
+     - Hours: 6:00 AM - 10:00 PM
+     - Options: 8 different cuisines
+   
+   - Fine Dining (T1, Level 4)
+     - Location: Near Entrance 1
+     - Hours: 11:00 AM - 11:00 PM
+     - Cuisine: Contemporary
+
+### Shopping
+1. Duty-Free
+   - Operating hours: 5:00 AM - 11:00 PM
+   - Locations: 
+     - T1 Level 3: Near Gate A12
+     - T2 Level 2: Near Gate B18
+   - Categories:
+     - Perfumes and cosmetics
+     - Liquor and tobacco
+     - Electronics
+     - Fashion and accessories
+
+2. Retail Stores
+   - Books and magazines
+     - T1: Near Gate A8
+     - T2: Near Gate B15
+     - Hours: 6:00 AM - 10:00 PM
+   
+   - Travel essentials
+     - T1: Near Gate A5
+     - T2: Near Gate B12
+     - Hours: 24/7
+   
+   - Souvenirs
+     - T1: Near Gate A18
+     - T2: Near Gate B24
+     - Hours: 7:00 AM - 9:00 PM
+   
+   - Fashion boutiques
+     - T1: Near Gate A15
+     - T2: Near Gate B20
+     - Hours: 8:00 AM - 8:00 PM
+   
+   - Electronics stores
+     - T1: Near Gate A10
+     - T2: Near Gate B16
+     - Hours: 7:00 AM - 9:00 PM
+
+### Transportation
+1. Ground Transportation
+   - Taxi stand (Outside Arrivals Level)
+     - Official airport taxis
+       - Location: Exit 1 (both terminals)
+       - Hours: 24/7
+       - Fixed rates to city center
+     
+     - Ride-sharing pickup points
+       - Location: Exit 2 (both terminals)
+       - Hours: 24/7
+   
+   - Bus Services
+     - Airport Express (24/7)
+       - Route: Airport - City Center
+       - Frequency: Every 15 minutes
+       - Location: Exit 2 (both terminals)
+     
+     - City Bus Routes (5:00 AM - 11:00 PM)
+       - Route 1: Airport - Downtown
+       - Route 2: Airport - Business District
+       - Route 3: Airport - Residential Areas
+       - Location: Exit 2 (both terminals)
+     
+     - Hotel Shuttles
+       - Location: Exit 3 (both terminals)
+       - Hours: 24/7
+   
+   - Train Station (Basement Level T1/T2)
+     - High-speed rail connections
+       - Route: Airport - Central Station
+       - Frequency: Every 20 minutes
+       - Hours: 5:00 AM - 11:00 PM
+     
+     - City metro access
+       - Line 1: Airport - Downtown
+       - Line 2: Airport - Business District
+       - Frequency: Every 10 minutes
+       - Hours: 5:00 AM - 11:00 PM
+     
+     - Regional train services
+       - Routes: Multiple destinations
+       - Frequency: Every 30 minutes
+       - Hours: 6:00 AM - 10:00 PM
+
+2. Parking
+   - Short-term parking (P1, P2)
+     - Location: Adjacent to terminals
+     - Rate: $5 per hour
+     - Maximum stay: 24 hours
+   
+   - Long-term parking (P3, P4)
+     - Location: 5-minute shuttle ride
+     - Rate: $20 per day
+     - Shuttle frequency: Every 10 minutes
+   
+   - Premium parking (P5)
+     - Location: Covered, adjacent to terminals
+     - Rate: $30 per day
+     - Valet service available
+   
+   - Valet service
+     - Location: Terminal entrances
+     - Rate: $40 per day
+     - Hours: 24/7
+   
+   - Electric vehicle charging stations
+     - Location: P1, P2, P5
+     - Rate: $2 per hour
+     - Hours: 24/7
+
+### Special Services
+1. Medical Services
+   - Medical Center (T1 Level 2, T2 Level 1)
+     - 24/7 operation
+     - Emergency care
+     - Pharmacy
+     - Vaccination center
+   
+2. Lost & Found
+   - Main office: T1 Level 2
+   - Phone: (+1) 555-AIRPORT
+   - Email: lostandfound@ghia.com
+   - Operating hours: 7:00 AM - 10:00 PM
+
+3. Special Assistance
+   - Wheelchair service
+     - Request at information desks
+     - Available 24/7
+   
+   - Unaccompanied minor assistance
+     - Contact airline in advance
+     - Available 24/7
+   
+   - Elderly passenger support
+     - Request at information desks
+     - Available 24/7
+   
+   - Service animal facilities
+     - Relief areas: Outside each terminal
+     - Water stations: Near relief areas
+   
+   - Accessible restrooms and facilities
+     - All levels
+     - 24/7 availability
+
+## Security Rules and Procedures
+
+### Prohibited Items
+1. Liquids and Gels
+   - Maximum 100ml per container
+   - Must be in clear, resealable bags
+   - Exceptions for medications and baby food
+
+2. Electronics
+   - Power banks limited to 20,000mAh
+   - Laptops must be removed for screening
+   - Drones require special permission
+
+3. Other Restrictions
+   - Sharp objects
+   - Sporting equipment
+   - Tools
+   - Flammable materials
+
+### FastTrack Services
+1. Eligibility
+   - Business class passengers
+   - Premium credit card holders
+   - Frequent flyer program members
+   - Special assistance passengers
+
+2. Application Process
+   - Online registration
+   - Mobile app booking
+   - Counter registration
+
+## Emergency Information
+
+### Emergency Contacts
+- Airport Police: (+1) 555-911
+- Medical Emergency: (+1) 555-999
+- Fire Department: (+1) 555-888
+- Security: (+1) 555-777
+
+### Emergency Procedures
+1. Evacuation Routes
+   - Clearly marked exits
+   - Assembly points
+   - Emergency lighting
+
+2. First Aid
+   - First aid kits (all levels)
+   - Automated External Defibrillators (AEDs)
+   - Trained medical staff
+
+## Operational Information
+
+### Check-in Procedures
+- Online check-in: 24 hours before flight
+- Counter check-in: 3 hours before flight
+- Baggage drop-off: 2 hours before flight
+- Boarding: 45 minutes before departure
+
+### Business Services
+1. Conference Facilities
+   - Meeting rooms
+   - Business center
+   - Video conferencing
+   - Printing services
+
+2. VIP Services
+   - Private check-in
+   - Fast-track security
+   - Luxury transportation
+   - Personal concierge
+
+### Additional Services
+1. Banking and Currency
+   - ATMs (all levels)
+   - Currency exchange (24/7 in T1 Arrivals)
+   - Banking services (T1 Level 4)
+
+2. Communication
+   - Free WiFi (GHIA_FREE)
+   - Internet kiosks
+   - Phone charging stations
+   - Postal services
+
+3. Family Services
+   - Baby care rooms
+   - Children's play areas
+   - Family restrooms
+   - Stroller rental
+
+4. Religious Services
+   - Prayer rooms (all terminals)
+   - Multi-faith facilities
+   - Religious literature available
+
+## Seasonal Information
+
+### Peak Travel Periods
+- Summer (June-August)
+- Winter Holidays (December)
+- Spring Break (March-April)
+- Special Events
+
+### Weather Considerations
+- Indoor temperature: 22-24°C
+- Weather updates available on displays
+- Umbrella rental service during rainy season
+
+## Accessibility Information
+
+### Physical Accessibility
+- Wheelchair-accessible routes
+- Elevators and escalators
+- Accessible parking
+- Service animal facilities
+
+### Visual Accessibility
+- Braille signage
+- Audio announcements
+- Visual flight information
+- Assistance services
+
+### Hearing Accessibility
+- TTY phones
+- Visual alerts
+- Sign language interpreters
+- Hearing loop systems
